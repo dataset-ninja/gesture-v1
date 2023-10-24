@@ -1,5 +1,3 @@
+Authors introduce the **Gesture v1.0** dataset, an invaluable resource for the computer vision community. This dataset comprises 2,417 images, encompassing a diverse array of 4,159 labeled objects categorized into five distinct classes: *one*, *two*, *three*, *four* and *five*. To facilitate comprehensive model training and evaluation, the dataset is thoughtfully divided into two subsets: a substantial *train* set containing 1,916 images and a *val* set with 501 images. With a focus on object detection and a commitment to open-source principles, the Gesture dataset presents a powerful asset for advancing deep learning research and applications in this domain.
 
-Sample image template:
-<img src="https://github.com/dataset-ninja/gland-segmentation/assets/78355358/f158d0dd-71d5-41a2-aba5-4a5f57d54c35" alt="image" width="800">
-
-<span style="font-size: smaller; font-style: italic;">Image description.</span>
+The dataset was collected by [opencv-webcam-script v0.5](https://gitee.com/CV_Lab/opencv_webcam), capture every 5 frames, 5 categories, from number 1 to number 5. a total of 2500 pictures, and only took 13.55 minutes. The dataset is labeled with [label-studio](https://github.com/heartexlabs/label-studio).
