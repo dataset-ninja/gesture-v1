@@ -13,8 +13,8 @@ from dataset_tools.templates import (
 ##################################
 # * Before uploading to instance #
 ##################################
-PROJECT_NAME: str = None
-PROJECT_NAME_FULL: str = None
+PROJECT_NAME: str = "Gesture v1.0"
+PROJECT_NAME_FULL: str = "Gesture v1.0"
 HIDE_DATASET = True  # set False when 100% sure about repo quality
 
 ##################################
