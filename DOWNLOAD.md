@@ -1,6 +1,6 @@
 Dataset **Gesture v1.0** can be downloaded in [Supervisely format](https://developer.supervisely.com/api-references/supervisely-annotation-json-format):
 
- [Download](https://assets.supervisely.com/remote/eyJsaW5rIjogImZzOi8vYXNzZXRzLzI4MzlfR2VzdHVyZSB2MS4wL2dlc3R1cmUtdjEuMC1EYXRhc2V0TmluamEudGFyIiwgInNpZyI6ICI3V3YzSVBJUDM3bVp0RHNkMUx2K2w1RnJBZGNGeHRlQVEvbWZEazdaN3BZPSJ9)
+ [Download](https://assets.supervisely.com/remote/eyJsaW5rIjogInMzOi8vc3VwZXJ2aXNlbHktZGF0YXNldHMvMjgzOV9HZXN0dXJlIHYxLjAvZ2VzdHVyZS12MS4wLURhdGFzZXROaW5qYS50YXIiLCAic2lnIjogInVsR09IM3lvdGF2WXQrUFJmNDd4ZVBqT3c3NDlkRURwT3FFUytEZlNoRVk9In0=?response-content-disposition=attachment%3B%20filename%3D%22gesture-v1.0-DatasetNinja.tar%22)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
